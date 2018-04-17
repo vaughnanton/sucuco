@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+
+<head>
+  <link rel="shortcut icon" href="land/cart/img/fav.png"/>
+  <link href="css/common.css" rel="stylesheet"/>
+  <script defer src="https://use.fontawesome.com/releases/v5.0.10/js/all.js" integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+"" crossorigin="anonymous"></script>
+  <link href="https://fonts.googleapis.com/css?family=EB+Garamond:400,500i,600i,700" rel="stylesheet"/>
+</head>
+
+<body>
+
+  <div class="sectionNav">
+    <nav class="navbar navbar-static-top navbar-expand-lg navbar-dark">
+      <a class="navbar-brand"><img class="navlogo" src="#">LOGO</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="#">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Blog</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">FAQ</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+
+  <div class="section1">
+    <div class="block-inner">
+      <div class="center-block1">
+        <p>Give your Space the Benefits of Succulents Today!</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="section2">
+    <div class="block-inner">
+      <div class="center-block2">
+        <img src="#">
+        <h1>When you harbor succulent plants, you get multiple amazing benefits including:</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt,<br>
+        ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation<br>
+        ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in!</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="section3">
+    <div class="block-inner">
+      <div class="center-block3">
+        <h3>"The benefits of succulents are limitless!"</h3>
+        <hr>
+        <h4>Some Person<br><span>Art & Plant Connoisseur</span></h4>
+      </div>
+    </div>
+  </div>
+
+  <div class="section4">
+    <div class="block-inner">
+      <div class="center-block4">
+        <h3>What Sets Us Apart</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam <span>quis nostrud exercitation ullamco laboris</span>. nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit <span style="font-style:italic;">in voluptate velit esse cillum dolore eu fugiat nulla pariatur</span>. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <a href="#"><h4>"Packed with vital air cleaning for your space."</h4></a>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut <span> ut labore et dolore magna aliqua</span>. Ut enim ad minim veniam, quis nostrud exercitation ullamco <span>laboris nisi</span> ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehender <span>lorem</span> and <span>ipsum</span> that <span>dolor sit amet</span>. <a href="#">We"re running a special promotion here</a> for a free package of seeds of yesteryear! </p>
+        <a href="#"><button>CLICK HERE FOR YOUR FREE PACKAGE</button></a>
+      </div>
+    </div>
+  </div>
+
+  <div class="section5">
+    <div class="block-inner">
+      <div class="center-block5">
+        <div class="text1">Amazingly Green Plants</div>
+        <div class="text2">100% Satisfaction Guarantee</div>
+        <div class="text3">Limited Time Offer</div>
+        <a href="#"><h3><span>Click here</span> to lock in your free package now!</h3></a>
+        <a href="#"><button>Send me my free plant seeds!</button></a>
+      </div>
+    </div>
+  </div>
+
+  <div class="section6">
+  </div>
+
+  <div class="sectionx">
+    <div class="block-inner">
+      <div class="center-blockx">
+        <h3>AS SEEN IN</h3>
+        <ul>
+          <li><img src="img/l3.png"></li>
+          <li><img src="img/l1.png"></li>
+          <li><img src="img/l2.png"></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="section7">
+    <div class="block-inner">
+      <div class="center-block7">
+        <div class="sect1">
+          <ul>
+            <li><a href="#">ABOUT</a></li>
+            <li><a href="#">FAQ</a></li>
+            <li><a href="#">PRESS</a></li>
+            <li><a href="#">BLOG</a></li>
+            <li><a href="#">CONTACT</a></li>
+          </ul>
+        </div>
+        <div class="sect0">
+          <img class="logo" src="#">
+        </div>
+        <div class="sect2">
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section8">
+    <div class="block-inner">
+      <div class="center-block8">
+        <ul>
+          <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+          <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+          <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+          <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+        </ul>
+        <p>&copy; Copyright 2018 | WOW Skin Science<br><a href="#">Terms And Conditions</a><br><a href="#">Privcay Policy</a></p>
+      </div>
+    </div>
+  </div>
+
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+</body>
+<html>
