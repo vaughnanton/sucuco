@@ -231,6 +231,7 @@ body {
   height:310px;
   background-color:#fff;
   background: url(../img/banner1.jpg) center center;
+  background-size:cover;
   background-repeat: no-repeat;
 }
 
